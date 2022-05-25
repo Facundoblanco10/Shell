@@ -1,2 +1,2 @@
-#!/bin/bash
-cut -c 1 
+!/bin/bash
+cut -c -1 README.md | tr -d '\n' 
