@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv $PATHls | wc -l
+ls | wc -l
