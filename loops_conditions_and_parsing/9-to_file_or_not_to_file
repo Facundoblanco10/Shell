@@ -10,9 +10,7 @@ then
 		if [ -f $f ]
 		then 
 			echo school is a regular file
-		else 
-			echo " "
-		fi
+	fi
 	else 
 		echo school file is empty
 	fi
